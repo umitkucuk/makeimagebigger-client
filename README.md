@@ -18,5 +18,7 @@ komutlarını sırayla çalıştır ve client çalıştığında `localhost:3000
 
 2. Mobile client:
 
+APK File: https://we.tl/t-zFBoKK2Q0J
+
 APK dosyasını kur ve uygulamayı aç. Başlangıç ekranında `Bir kanala katıl` butonuna tıkla. Kamera iznini verdikten sonra kamera ile Web client'ta bulunan QR kodu okut. Artık kanala katıldın. Resimleri seçmeye başlayabilirsin, seçtiğin resimler Web client'ta görünecektir.
 
