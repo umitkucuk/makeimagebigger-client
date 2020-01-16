@@ -14,7 +14,7 @@ client-web klasörü içindeyken:
   npm run dev
 ```
 
-komutlarını sırayla çalıştır ve client çalıştığında `localhost:3000 adresine git. Web client bir bağlantı bekleyecektir.
+komutlarını sırayla çalıştır ve client çalıştığında `localhost:3000` adresine git. Web client bir bağlantı bekleyecektir.
 
 2. Mobile client:
 
