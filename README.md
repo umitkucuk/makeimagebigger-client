@@ -1,24 +1,22 @@
-# makeimagebigger-client
+# client
 
-1. Web client:
+> client
 
-İlk önce client-web'i çalıştırmamız gerekiyor.
+## Build Setup
 
-client-web klasörü içindeyken:
+``` bash
+# install dependencies
+$ yarn install
 
-```bash
-  npm install
+# serve with hot reload at localhost:3000
+$ yarn dev
+
+# build for production and launch server
+$ yarn build
+$ yarn start
+
+# generate static project
+$ yarn generate
 ```
 
-```bash
-  npm run dev
-```
-
-komutlarını sırayla çalıştır ve client çalıştığında `localhost:3000` adresine git. Web client bir bağlantı bekleyecektir.
-
-2. Mobile client:
-
-APK File: https://we.tl/t-zFBoKK2Q0J
-
-APK dosyasını kur ve uygulamayı aç. Başlangıç ekranında `Bir kanala katıl` butonuna tıkla. Kamera iznini verdikten sonra kamera ile Web client'ta bulunan QR kodu okut. Artık kanala katıldın. Resimleri seçmeye başlayabilirsin, seçtiğin resimler Web client'ta görünecektir.
-
+For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
